@@ -1,0 +1,282 @@
+[
+ {
+   "Kelurahan": "Pondok Labu",
+   "Penyakit": "Tbc",
+   "Jumlah": 6,
+   "Tahun": 2010,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Pelangi Indah1"
+ },
+ {
+   "Kelurahan": "Pondok Labu",
+   "Penyakit": "Asma",
+   "Jumlah": 26,
+   "Tahun": 2011,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Pelangi Indah2"
+ },
+ {
+   "Kelurahan": "Pondok Labu",
+   "Penyakit": "Pnemonia",
+   "Jumlah": 0,
+   "Tahun": 2012,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Pelangi Indah3"
+ },
+ {
+   "Kelurahan": "Pondok Labu",
+   "Penyakit": "Hipertensi",
+   "Jumlah": 348,
+   "Tahun": 2013,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Pelangi Indah4"
+ },
+ {
+   "Kelurahan": "Pondok Labu",
+   "Penyakit": "Diabetes Melitus",
+   "Jumlah": 84,
+   "Tahun": 2014,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Pelangi Indah5"
+ },
+ {
+   "Kelurahan": "Pondok Labu",
+   "Penyakit": "Jantung",
+   "Jumlah": 24,
+   "Tahun": 2015,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Pelangi Indah6"
+ },
+ {
+   "Kelurahan": "Pondok Labu",
+   "Penyakit": "Stroke",
+   "Jumlah": 27,
+   "Tahun": 2016,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Pelangi Indah7"
+ },
+ {
+   "Kelurahan": "Cipete Selatan",
+   "Penyakit": "Tbc",
+   "Jumlah": 25,
+   "Tahun": 2010,
+   "Gender": "Perempuan",
+   "Puskesmas": "Garuda1"
+ },
+ {
+   "Kelurahan": "Cipete Selatan",
+   "Penyakit": "Asma",
+   "Jumlah": 58,
+   "Tahun": 2011,
+   "Gender": "Perempuan",
+   "Puskesmas": "Garuda2"
+ },
+ {
+   "Kelurahan": "Cipete Selatan",
+   "Penyakit": "Pnemonia",
+   "Jumlah": 2,
+   "Tahun": 2012,
+   "Gender": "Perempuan",
+   "Puskesmas": "Garuda3"
+ },
+ {
+   "Kelurahan": "Cipete Selatan",
+   "Penyakit": "Hipertensi",
+   "Jumlah": 64,
+   "Tahun": 2013,
+   "Gender": "Perempuan",
+   "Puskesmas": "Garuda4"
+ },
+ {
+   "Kelurahan": "Cipete Selatan",
+   "Penyakit": "Diabetes Melitus",
+   "Jumlah": 64,
+   "Tahun": 2014,
+   "Gender": "Perempuan",
+   "Puskesmas": "Garuda5"
+ },
+ {
+   "Kelurahan": "Cipete Selatan",
+   "Penyakit": "Jantung",
+   "Jumlah": 58,
+   "Tahun": 2015,
+   "Gender": "Perempuan",
+   "Puskesmas": "Garuda6"
+ },
+ {
+   "Kelurahan": "Cipete Selatan",
+   "Penyakit": "Stroke",
+   "Jumlah": 26,
+   "Tahun": 2016,
+   "Gender": "Perempuan",
+   "Puskesmas": "Garuda7"
+ },
+ {
+   "Kelurahan": "Gandaria Selatan",
+   "Penyakit": "Tbc",
+   "Jumlah": 9,
+   "Tahun": 2010,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Mawar1"
+ },
+ {
+   "Kelurahan": "Gandaria Selatan",
+   "Penyakit": "Asma",
+   "Jumlah": 112,
+   "Tahun": 2011,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Mawar2"
+ },
+ {
+   "Kelurahan": "Gandaria Selatan",
+   "Penyakit": "Pnemonia",
+   "Jumlah": 7,
+   "Tahun": 2012,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Mawar3"
+ },
+ {
+   "Kelurahan": "Gandaria Selatan",
+   "Penyakit": "Hipertensi",
+   "Jumlah": 273,
+   "Tahun": 2013,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Mawar4"
+ },
+ {
+   "Kelurahan": "Gandaria Selatan",
+   "Penyakit": "Diabetes Melitus",
+   "Jumlah": 75,
+   "Tahun": 2014,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Mawar5"
+ },
+ {
+   "Kelurahan": "Gandaria Selatan",
+   "Penyakit": "Jantung",
+   "Jumlah": 26,
+   "Tahun": 2015,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Mawar6"
+ },
+ {
+   "Kelurahan": "Gandaria Selatan",
+   "Penyakit": "Stroke",
+   "Jumlah": 17,
+   "Tahun": 2016,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Mawar7"
+ },
+ {
+   "Kelurahan": "Lebak Bulus",
+   "Penyakit": "Tbc",
+   "Jumlah": 34,
+   "Tahun": 2010,
+   "Gender": "Perempuan",
+   "Puskesmas": "Kenanga1"
+ },
+ {
+   "Kelurahan": "Lebak Bulus",
+   "Penyakit": "Asma",
+   "Jumlah": 53,
+   "Tahun": 2011,
+   "Gender": "Perempuan",
+   "Puskesmas": "Kenanga2"
+ },
+ {
+   "Kelurahan": "Lebak Bulus",
+   "Penyakit": "Pnemonia",
+   "Jumlah": 0,
+   "Tahun": 2012,
+   "Gender": "Perempuan",
+   "Puskesmas": "Kenanga3"
+ },
+ {
+   "Kelurahan": "Lebak Bulus",
+   "Penyakit": "Hipertensi",
+   "Jumlah": 379,
+   "Tahun": 2013,
+   "Gender": "Perempuan",
+   "Puskesmas": "Kenanga4"
+ },
+ {
+   "Kelurahan": "Lebak Bulus",
+   "Penyakit": "Diabetes Melitus",
+   "Jumlah": 90,
+   "Tahun": 2014,
+   "Gender": "Perempuan",
+   "Puskesmas": "Kenanga5"
+ },
+ {
+   "Kelurahan": "Lebak Bulus",
+   "Penyakit": "Stroke",
+   "Jumlah": 0,
+   "Tahun": 2015,
+   "Gender": "Perempuan",
+   "Puskesmas": "Kenanga6"
+ },
+ {
+   "Kelurahan": "Lebak Bulus",
+   "Penyakit": "Jantung",
+   "Jumlah": 8,
+   "Tahun": 2016,
+   "Gender": "Perempuan",
+   "Puskesmas": "Kenanga7"
+ },
+ {
+   "Kelurahan": "Cilandak Barat",
+   "Penyakit": "Tbc",
+   "Jumlah": 11,
+   "Tahun": 2010,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Kaktus1"
+ },
+ {
+   "Kelurahan": "Cilandak Barat",
+   "Penyakit": "Asma",
+   "Jumlah": 86,
+   "Tahun": 2011,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Kaktus2"
+ },
+ {
+   "Kelurahan": "Cilandak Barat",
+   "Penyakit": "Pnemonia",
+   "Jumlah": 3,
+   "Tahun": 2012,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Kaktus3"
+ },
+ {
+   "Kelurahan": "Cilandak Barat",
+   "Penyakit": "Hipertensi",
+   "Jumlah": 406,
+   "Tahun": 2013,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Kaktus4"
+ },
+ {
+   "Kelurahan": "Cilandak Barat",
+   "Penyakit": "Diabetes Melitus",
+   "Jumlah": 121,
+   "Tahun": 2014,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Kaktus5"
+ },
+ {
+   "Kelurahan": "Cilandak Barat",
+   "Penyakit": "Jantung",
+   "Jumlah": 48,
+   "Tahun": 2015,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Kaktus6"
+ },
+ {
+   "Kelurahan": "Cilandak Barat",
+   "Penyakit": "Stroke",
+   "Jumlah": 23,
+   "Tahun": 2016,
+   "Gender": "Laki-laki",
+   "Puskesmas": "Kaktus7"
+ }
+]
